@@ -68,8 +68,8 @@
 "STATUS_DOWNLOAD_BUTTON_LABEL" = "Mostrar botão de Download";
 "STATUS_DOWNLOAD_BUTTON_DESC" = "Adicione um botão na parte inferior direita dos status para fazer o download.";
 
-"STATUS_CAPTION_COPY" = "Copy Caption";
-"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Caption Copied to Clipboard";
+"STATUS_CAPTION_COPY" = "Copiar Legenda";
+"STATUS_CAPTION_COPIED_TO_CLIPBOARD" = "Legenda copiada para a área de transferência";
 
 "STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY" = "Salvar imagem na biblioteca";
 "STATUS_DOWNLOAD_IMAGE_SHARE" = "Compartilhar imagem";
@@ -105,9 +105,9 @@
 "STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER" = "Nome do Grupo";
 "STATUS_CONTACT_GROUPS_MANAGE_BUTTON" = "Gerencie";
 
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Statuses that your contacts delete will not be removed from the statuses list until they expire in 24h. Deleted statuses will show a message in the header containing the time it was deleted.";
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Keep Contacts Deleted Statuses";
-"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Deleted at";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC" = "Os status excluídos por seus contatos não serão removidos da lista de status até que expirem em 24h. Os status excluídos mostrarão uma mensagem no cabeçalho contendo a hora em que foi excluída.";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL" = "Manter status excluído dos contatos";
+"STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE" = "Excluído em";
 
 "STATUS_DISABLE_AUTO_ADVANCE_DESC" = "Desative o avanço automático para o próximo status.";
 "STATUS_DISABLE_AUTO_ADVANCE_LABEL" = "Desativar Avanço Automático";
@@ -138,11 +138,11 @@
 "DISABLE_FORWARD_INDICATOR_LABEL" = "Desativar indicador de Encaminhado";
 "DISABLE_FORWARD_INDICATOR_DESC" = "Não mostra o indicador de Encaminhado quando se encaminha uma mensagem para seus contatos";
 
-"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Forward Contacts Limit";
-"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.";
+"INCREASE_FORWARD_CONTACTS_LIMIT_LABEL" = "Limite de encaminhamento de contatos";
+"INCREASE_FORWARD_CONTACTS_LIMIT_DESC" = "Aumente o limite de número de contatos ao encaminhar uma mensagem de 5 para 20. Isso costumava permitir o encaminhamento de uma mensagem para um número ilimitado de contatos, mas o WhatsApp começou a verificar isso no servidor deles e eu o desabilitei para proteger sua conta.";
 
-"CONFIRM_SENDING_STICKER_LABEL" = "Confirm Sending Stickers";
-"CONFIRM_SENDING_STICKER_DESC" = "Show a confirmation alert before sending a sticker";
+"CONFIRM_SENDING_STICKER_LABEL" = "Confirmar envio de sticker";
+"CONFIRM_SENDING_STICKER_DESC" = "Mostrar um alerta de confirmação antes de enviar um sticker";
 
 "CALL_CONFIRM_DESC" = "Receba um alerta de confirmação quando tocar em botões de chamadas de voz ou de vídeo, também pode escolher entre uma chamada do WhatsApp ou uma chamada de operadora normal.";
 "CALL_CONFIRM_LABEL" = "Confirmação de ligação";
@@ -304,7 +304,7 @@
 "SHARE_SHEET_ENABLED_LABEL" = "Ativado";
 "SHARE_SHEET_DISABLED_LABEL" = "Desativado";
 
-"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Send Selected Images";
+"SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON" = "Enviar imagens selecionadas";
 "SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON" = "Tirar foto ou vídeo";
 "SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON" = "Biblioteca de fotos/vídeos";
 "SHARE_SHEET_PHOTO_LIBRARY_BUTTON" = "Biblioteca de Fotos";
@@ -321,8 +321,8 @@
 "SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON" = "Compartilhar Imagem da Internet";
 "SHARE_SHEET_PAYMENT_BUTTON" = "Enviar Pagamento";
 
-"SAVE_PROFILE_PHOTOS_LABEL" = "Save Profile Photos";
-"SAVE_PROFILE_PHOTOS_DESC" = "Long press on profile photos to save them after WhatsApp removed their save button";
+"SAVE_PROFILE_PHOTOS_LABEL" = "Salvar fotos do perfil";
+"SAVE_PROFILE_PHOTOS_DESC" = "Pressione e segure as fotos do perfil para salvá-las depois que o WhatsApp removeu o botão salvar";
 
 "BLOCK" = "Bloquear";
 "UNBLOCK" = "Desbloquear";
@@ -378,8 +378,8 @@
 "DISABLE_LANDSCAPE_DESC" = "Não permitir que WhatsApp gire para modo paisagem.";
 "DISABLE_LANDSCAPE_LABEL" = "Desativar Modo Paisagem";
 
-"DISABLE_LARGE_TITLES_DESC" = "Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers";
-"DISABLE_LARGE_TITLES_LABEL" = "Disable Large Titles";
+"DISABLE_LARGE_TITLES_DESC" = "Desative os títulos grandes do iOS 11+ nos controladores de exibição das barras de guias do WhatsApp";
+"DISABLE_LARGE_TITLES_LABEL" = "Desativar títulos grandes";
 
 "MUTE_SOUND_DESC" = "Silenciar o som WhatsApp das mensagens enviadas/recebidas e/ou silenciar cliques do teclado.";
 "MUTE_SOUND_LABEL" = "Silenciar Sons";
@@ -415,11 +415,11 @@
 "PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER" = "Mensagem de notificação";
 "PRIVATE_NOTIFICATION_TITLE_LABEL" = "Título";
 "PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER" = "Nome do Contato";
-"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filter";
-"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "None";
-"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Whitelist";
-"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Blacklist";
-"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Filter List";
+"PRIVATE_NOTIFICATION_FILTER_LABEL" = "Filtro";
+"PRIVATE_NOTIFICATION_FILTER_NONE_LABEL" = "Nenhum";
+"PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL" = "Lista Branca";
+"PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL" = "Lista Negra";
+"PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL" = "Lista de filtros";
 
 "HIDE_MUTED_BADGES_DESC" = "Esconda os números de notificação do WhatsApp para bate-papos e grupos silenciados (balão vermelho com número).";
 "HIDE_MUTED_BADGES_LABEL" = "Esconder números de notificação";
@@ -435,23 +435,23 @@
 
 "THEME_LABEL" = "Tema";
 
-"CREATE_NEW_THEME_ACTION_BUTTON" = "Create New Theme";
-"IMPORT_NEW_THEME_ACTION_BUTTON" = "Import Theme from Files";
-"THEME_FILE_IMPORT_FAILED_TITLE" = "Invalid Theme File";
-"THEME_FILE_IMPORT_FAILED_MESSAGE" = "The file must be a valid plist";
+"CREATE_NEW_THEME_ACTION_BUTTON" = "Criar novo tema";
+"IMPORT_NEW_THEME_ACTION_BUTTON" = "Importar arquivos de tema";
+"THEME_FILE_IMPORT_FAILED_TITLE" = "Arquivo de tema inválido";
+"THEME_FILE_IMPORT_FAILED_MESSAGE" = "O arquivo deve ser um plist válido";
 
-"NEW_THEME_ALERT_TITLE" = "New Theme";
-"NEW_THEME_ALERT_MESSAGE" = "Enter your theme name";
-"NEW_THEME_ALERT_PLACEHOLDER" = "Theme";
+"NEW_THEME_ALERT_TITLE" = "Novo Tema";
+"NEW_THEME_ALERT_MESSAGE" = "Digite o nome do seu tema";
+"NEW_THEME_ALERT_PLACEHOLDER" = "Tema";
 
-"THEMES_SECTION_HEADER" = "Themes";
-"THEMES_SECTION_FOOTER" = "Use the + button to create a new theme\nSwipe left or long press on a theme to edit\nSelect a theme to set as active";
-"THEMES_STORE_LABEL" = "Themes Store";
+"THEMES_SECTION_HEADER" = "Temas";
+"THEMES_SECTION_FOOTER" = "Use o botão + para criar um novo tema\nToque em um tema para a esquerda ou pressionado para editar\nSelecione um tema para definir como ativo";
+"THEMES_STORE_LABEL" = "Loja de temas";
 
-"EDIT_THEME" = "Edit Theme";
-"THEME_NAME" = "Theme Name";
+"EDIT_THEME" = "Editar Tema";
+"THEME_NAME" = "Nome do Tema";
 
-"THEME_GENERAL_SECTION_TITLE" = "General";
+"THEME_GENERAL_SECTION_TITLE" = "Geral";
 "APP_TINTCOLOR_LABEL" = "App Tint Color";
 "DARK_MODE_LABEL" = "Dark Mode";
 "KEYBOARD_STYLE_LABEL" = "Keyboard Style";
